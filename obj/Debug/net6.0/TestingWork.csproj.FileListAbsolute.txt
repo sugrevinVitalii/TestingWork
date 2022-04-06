@@ -1,0 +1,15 @@
+F:\C_sharp\TestingWork\bin\Debug\net6.0\TestingWork.exe
+F:\C_sharp\TestingWork\bin\Debug\net6.0\TestingWork.deps.json
+F:\C_sharp\TestingWork\bin\Debug\net6.0\TestingWork.runtimeconfig.json
+F:\C_sharp\TestingWork\bin\Debug\net6.0\TestingWork.dll
+F:\C_sharp\TestingWork\bin\Debug\net6.0\ref\TestingWork.dll
+F:\C_sharp\TestingWork\bin\Debug\net6.0\TestingWork.pdb
+F:\C_sharp\TestingWork\obj\Debug\net6.0\TestingWork.csproj.AssemblyReference.cache
+F:\C_sharp\TestingWork\obj\Debug\net6.0\TestingWork.GeneratedMSBuildEditorConfig.editorconfig
+F:\C_sharp\TestingWork\obj\Debug\net6.0\TestingWork.AssemblyInfoInputs.cache
+F:\C_sharp\TestingWork\obj\Debug\net6.0\TestingWork.AssemblyInfo.cs
+F:\C_sharp\TestingWork\obj\Debug\net6.0\TestingWork.csproj.CoreCompileInputs.cache
+F:\C_sharp\TestingWork\obj\Debug\net6.0\TestingWork.dll
+F:\C_sharp\TestingWork\obj\Debug\net6.0\ref\TestingWork.dll
+F:\C_sharp\TestingWork\obj\Debug\net6.0\TestingWork.pdb
+F:\C_sharp\TestingWork\obj\Debug\net6.0\TestingWork.genruntimeconfig.cache
